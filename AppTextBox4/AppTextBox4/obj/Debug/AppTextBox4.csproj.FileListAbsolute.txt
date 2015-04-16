@@ -1,0 +1,8 @@
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\bin\Debug\AppTextBox4.exe.config
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\bin\Debug\AppTextBox4.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\bin\Debug\AppTextBox4.pdb
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\obj\Debug\AppTextBox4.Form1.resources
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\obj\Debug\AppTextBox4.Properties.Resources.resources
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\obj\Debug\AppTextBox4.csproj.GenerateResource.Cache
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\obj\Debug\AppTextBox4.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox4\AppTextBox4\obj\Debug\AppTextBox4.pdb

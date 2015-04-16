@@ -1,0 +1,9 @@
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\bin\Debug\AppTextBox3.exe.config
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\bin\Debug\AppTextBox3.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\bin\Debug\AppTextBox3.pdb
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.Form1.resources
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.Properties.Resources.resources
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.csproj.GenerateResource.Cache
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppTextBox3\AppTextBox3\obj\Debug\AppTextBox3.pdb
